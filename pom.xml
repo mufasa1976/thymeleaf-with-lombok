@@ -114,6 +114,8 @@
   </dependencies>
 
   <build>
+    <finalName>thymeleaf-lombok</finalName>
+
     <pluginManagement>
       <plugins>
         <!-- JaCoCo -->
